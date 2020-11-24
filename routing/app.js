@@ -75,6 +75,4 @@ app.get('/examples/b', callbacks)
 
 app.use('/birds', birds)
 
-
-
 app.listen(3000, console.log('App is running...'))
