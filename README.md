@@ -1,2 +1,2 @@
 # expressJS-guide
-Repositório contendo alguns exemplos da documentação do expressJS
+Repositório contendo alguns exemplos do guia do do expressJS
